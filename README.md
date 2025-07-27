@@ -2,6 +2,7 @@
 
 I'm currently learning **web development** with a focus on **frontend (HTML, CSS, JavaScript)** and planning to grow into **fullstack** in the future. 
 I'm passionate about clean code, thoughtful design, and continuous learning. I‚Äôm also interested in **algorithms** and practice solving problems on **Codewars**.
+
 ---
 
 ### üõ†Ô∏è Tech Stack
@@ -17,6 +18,7 @@ I'm passionate about clean code, thoughtful design, and continuous learning. I‚Ä
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
+
 ---
 ---
 
@@ -24,9 +26,11 @@ I'm passionate about clean code, thoughtful design, and continuous learning. I‚Ä
 
 <table><tr valign="top">
 <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight" height="130"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight" height="140"/>
 </td>
 <td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="130"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="140"/>
 </td>
 </tr></table>

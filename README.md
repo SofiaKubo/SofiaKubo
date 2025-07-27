@@ -20,11 +20,9 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
 </p>
 
 ---
-
 ---
 
 ### ðŸ“Š GitHub Stats
-
 
 <table><tr valign="top">
 <td>
@@ -36,10 +34,3 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
 </tr></table>
 
 ---
-
-
-
-
-
-
-

@@ -28,10 +28,10 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
 
 <table><tr valign="top">
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight" height="150"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="150"/>
 </td>
 </tr></table>
 

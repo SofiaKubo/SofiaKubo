@@ -32,4 +32,5 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="140"/>
 </td>
 </tr></table>
+
 ---

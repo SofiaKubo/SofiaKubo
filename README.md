@@ -3,6 +3,7 @@
 I'm currently learning **web development** with a focus on **frontend (HTML, CSS, JavaScript)** and planning to grow into **fullstack** in the future. 
 I'm passionate about clean code, thoughtful design, and continuous learning. I’m also interested in **algorithms** and practice solving problems on **Codewars**.
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -18,6 +19,7 @@ I'm passionate about clean code, thoughtful design, and continuous learning. I�
 </p>
 ---
 ---
+
 ### 📊 GitHub Stats
 
 <table><tr valign="top">

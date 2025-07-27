@@ -29,7 +29,7 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
 
   <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight&hide=contribs&rank_icon=percentile&include_all_commits=true&hide_border=false" width="400"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight&hide_border=false" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight&hide=contribs&hide_border=false" width="400"/>
 
 </div>
 

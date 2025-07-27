@@ -31,16 +31,6 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="140"/>
 </td>
-  <td>
-  <img src="(https://streak-stats.demolab.com?user=SofiaKubo&theme=dark&hide_border=true" height="140"/>
-</td>
 </tr></table>
 
 ---
-
-### ðŸ”¥ GitHub Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SofiaKubo&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-

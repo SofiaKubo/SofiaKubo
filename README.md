@@ -25,16 +25,10 @@ I'm passionate about clean code, thoughtful design, and continuous learning. Iâ€
 
 ### ðŸ“Š GitHub Stats
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight&count_private=true" alt="SofiaKubo's GitHub Stats"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiaKubo&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="200"/>
+</div>
 
 ---
 

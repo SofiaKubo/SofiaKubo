@@ -2,9 +2,7 @@
 
 I'm currently learning **web development** with a focus on **frontend (HTML, CSS, JavaScript)** and planning to grow into **fullstack** in the future. 
 I'm passionate about clean code, thoughtful design, and continuous learning. I’m also interested in **algorithms** and practice solving problems on **Codewars**.
-
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -18,10 +16,8 @@ I'm passionate about clean code, thoughtful design, and continuous learning. I�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
-
 ---
 ---
-
 ### 📊 GitHub Stats
 
 <table><tr valign="top">
@@ -32,5 +28,4 @@ I'm passionate about clean code, thoughtful design, and continuous learning. I�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKubo&layout=compact&theme=tokyonight" height="140"/>
 </td>
 </tr></table>
-
 ---

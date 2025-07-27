@@ -34,3 +34,14 @@ I'm passionate about clean code, thoughtful design, and continuous learning. I�
 </tr></table>
 
 ---
+
+### 🔥 GitHub Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SofiaKubo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SofiaKubo&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
+
+---
+

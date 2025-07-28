@@ -1,7 +1,8 @@
 ### Hi there, I'm Sofia 👋
 
-I'm currently learning **web development** with a focus on **frontend (HTML, CSS, JavaScript)** and planning to grow into **fullstack** in the future. 
-I'm passionate about clean code, thoughtful design, and continuous learning. I’m also interested in **algorithms** and practice solving problems on **Codewars**.
+I'm currently learning **web development**, focusing on **frontend (HTML, CSS, JavaScript)**, while also studying **Java** to become a **fullstack developer** in the future.  
+I'm passionate about **clean code**, **thoughtful design**, and **continuous learning**. I also enjoy solving **algorithmic challenges** and practice solving problems on **Codewars**.
+
 
 ---
 

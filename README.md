@@ -1,7 +1,14 @@
 ### Hi there, I'm Sofia 👋
 
-I'm currently learning **web development**, focusing on **frontend (HTML, CSS, JavaScript)**, while also studying **Java** to become a **fullstack developer** in the future.  
-I'm passionate about **clean code**, **thoughtful design**, and **continuous learning**. I also enjoy solving **algorithmic challenges** and practice solving problems on **Codewars**.
+I'm learning **web development** and building a strong foundation in **HTML, CSS, JavaScript** and **Git**.  
+My goals: write **clean, accessible** interfaces and grow into **full-stack**.
+
+- **Learning now:** HTML/CSS (a11y, responsive), JavaScript, Git
+- **Up next:** TypeScript, React, Node.js/Express, MongoDB, PostgreSQL, Docker, NestJS
+- **Also exploring:** Java (long-term backend path)
+
+I like thoughtful design, clear architecture, and continuous learning.  
+Practicing algorithms on **Codewars**.
 
 
 ---

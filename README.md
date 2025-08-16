@@ -38,6 +38,7 @@ I'm passionate about **clean code**, **thoughtful design**, and **continuous lea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="35" height="35"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="35" height="35"/>
+
   
 </p>
 

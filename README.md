@@ -1,6 +1,6 @@
 ### Hi there, I'm Sofia 👋
 
-I'm learning **web development** and building a strong foundation in **HTML, CSS, JavaScript**  **Git**.
+I'm learning **web development** and building a strong foundation in **HTML, CSS, JavaScript** and **Git**.
 My goals: write **clean, accessible** interfaces and grow into **full-stack**.
 
 - **Learning now:** HTML/CSS (a11y, responsive), JavaScript, Git

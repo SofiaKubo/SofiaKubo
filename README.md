@@ -30,11 +30,12 @@ Practicing algorithms on **Codewars**.
   <img src="https://cdn.simpleicons.org/django/FFFFFF" alt="Django" title="Django" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" title="Flask" width="35" height="35"/>  &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="35" height="35"/>
   <img src="https://cdn.simpleicons.org/fastapi/009688"  alt="FastAPI" title="FastAPI"  width="35" height="35"/>
  &nbsp; <!-- Tools --> 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="35" height="35"/> &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="35" height="35"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35" height="35"/> &nbsp; 

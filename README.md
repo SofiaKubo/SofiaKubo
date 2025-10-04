@@ -4,7 +4,7 @@ I'm learning **web development** and building a strong foundation in **HTML, CSS
 My goals: write **clean, accessible** interfaces and grow into **full-stack**.
 
 - **Learning now:** HTML/CSS (a11y, responsive), JavaScript, Git
-- **Up next:** TypeScript, React, Node.js/Express, MongoDB, PostgreSQL, Docker, NestJS, Python (Django, DRF, Flask, FastAPI)
+- **Up next:** TypeScript, React, Node.js/Express, MongoDB, PostgreSQL, Docker, NestJS, Python (OOP, Django/DRF, Flask, FastAPI, async, deployment)
 - **Also exploring:** Java (long-term backend path)
 
 I like thoughtful design, clear architecture, and continuous learning.  

@@ -28,7 +28,7 @@ Practicing algorithms on **Codewars**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="35" height="35"/> &nbsp; <!-- Python --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.simpleicons.org/django/FFFFFF" alt="Django" title="Django" width="35" height="35"/> &nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="35" height="35"/> &nbsp; 
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" title="Flask" width="35" height="35"/>  &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="35" height="35"/> &nbsp; <!-- Tools --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="35" height="35"/> &nbsp; 

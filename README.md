@@ -5,7 +5,7 @@ My goals: write **clean, accessible** interfaces and grow into **full-stack**.
 
 - **Learning now:** HTML/CSS (a11y, responsive), JavaScript, Git
 - **Up next:** TypeScript, React, Node.js, MongoDB, PostgreSQL, Docker
-- **Also exploring:** Java (long-term backend path)
+- **Backend direction:** Java (Core, OOP, Collections, JDBC), Spring Boot, Spring MVC, JPA/Hibernate, Spring Security, WebFlux, microservices, Docker, Kubernetes
 
 I like thoughtful design, clear architecture, and continuous learning.  
 Practicing algorithms on **Codewars**.

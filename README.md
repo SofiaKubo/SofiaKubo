@@ -3,9 +3,8 @@
 I'm learning **web development** and building a strong foundation in **HTML, CSS, JavaScript** and **Git**.
 My goals: write **clean, accessible** interfaces and grow into **full-stack**.
 
-- **Learning now:** HTML/CSS (a11y, responsive), JavaScript, Git
-- **Up next:** TypeScript, React, Node.js, MongoDB, PostgreSQL, Docker
-- **Backend direction:** Java (Core, OOP, Collections, JDBC), Spring Boot, Spring MVC, JPA/Hibernate, Spring Security, WebFlux, microservices, Docker, Kubernetes
+- **Currently learning:** HTML/CSS (a11y, responsive), JavaScript, Git, TypeScript, React
+- **Backend direction:** Java (Core, OOP, Collections), Spring Boot, REST APIs
 
 I like thoughtful design, clear architecture, and continuous learning.  
 Practicing algorithms on **Codewars**.

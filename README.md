@@ -3,7 +3,7 @@
 I'm learning **web development** and building a strong foundation in **HTML, CSS, JavaScript** and **Git**.
 My goals: write **clean, accessible** interfaces and grow into **full-stack**.
 
-- **Currently learning:** HTML/CSS (a11y, responsive), JavaScript, Git, TypeScript, React
+- **Currently learning:** HTML/CSS (a11y, responsive), JavaScript, Git, TypeScript, React, Storybook
 - **Backend direction:** Java (Core, OOP, Collections), Spring Boot, REST APIs
 
 I like thoughtful design, clear architecture, and continuous learning.  

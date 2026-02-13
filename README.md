@@ -22,7 +22,6 @@ Practicing algorithms on **Codewars**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="35" height="35"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="35" height="35"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="35" height="35"/> &nbsp; 
   <img src="https://raw.githubusercontent.com/storybookjs/brand/main/icon/icon-storybook-default.svg" alt="Storybook" title="Storybook" width="35" height="35"/> &nbsp;

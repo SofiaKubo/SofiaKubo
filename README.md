@@ -12,7 +12,7 @@ My current focus:
 I also have a frontend foundation in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Storybook**.
 
 I value clean code, clear architecture, and continuous growth as an engineer.  
-I also practice algorithms on **Codewars**.
+I also practice problem solving and algorithms on **Codewars**.
 
 ---
 

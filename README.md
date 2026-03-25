@@ -1,6 +1,6 @@
 ### Hi there, I'm Sofia 👋
 
-I'm an **aspiring Java Backend Developer**, focused on strong backend fundamentals and the Java ecosystem.
+I'm an **aspiring Java Backend Developer**, focused on building strong backend fundamentals and growing within the Java ecosystem.
 
 My current focus:
 - **Java Core**
@@ -22,28 +22,23 @@ I also practice algorithms on **Codewars**.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="35" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot"/> &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data" title="Spring Data"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" title="Maven" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="35" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" title="REST API"/> &nbsp;
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" title="JSON"/> &nbsp;
 </p>
+
+**Also working with:** Spring Boot, Spring Data, REST APIs
 
 #### Currently exploring
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="35" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" title="Spring Cloud"/> &nbsp;
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" title="gRPC"/> &nbsp;
-  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Protocol Buffers" title="Protocol Buffers"/> &nbsp;
-  <img src="https://img.shields.io/badge/Avro-C71A36?style=for-the-badge&logo=apache&logoColor=white" alt="Avro" title="Avro"/> &nbsp;
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" title="OpenAPI"/> &nbsp;
 </p>
+
+**Exploring:** Spring Cloud, gRPC, Protocol Buffers, Avro, OpenAPI
 
 #### Frontend Foundation
 <p align="left">
@@ -64,7 +59,7 @@ I also practice algorithms on **Codewars**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="35" height="35"/> &nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" width="35" height="35"/> &nbsp;
 </p>
 
 ---

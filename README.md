@@ -9,7 +9,7 @@ My current focus is:
 - **REST APIs**
 - **Backend fundamentals and architecture**
 
-I also have a frontend foundation in: HTML, CSS, JavaScript, TypeScript, React, Storybook
+I also have a frontend foundation in: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Storybook**.
 
 I value clean code, clear architecture, and continuous growth as an engineer.
 

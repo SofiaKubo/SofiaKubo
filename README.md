@@ -1,12 +1,23 @@
 ### Hi there, I'm Sofia 👋
 
-I'm learning **web development** and building a strong foundation in **HTML, CSS, JavaScript** and **Git**.
-My goals: write **clean, accessible** interfaces and grow into **full-stack**.
+I'm a **Java Backend Developer in progress**, focused on building a strong foundation in backend development and the Java ecosystem.
 
-- **Currently learning:** HTML/CSS (a11y, responsive), JavaScript, Git, TypeScript, React, Storybook
-- **Backend direction:** Java (Core, OOP, Collections), Spring Boot, REST APIs
+My current focus is:
+- **Java Core**
+- **OOP and Collections**
+- **Spring Boot**
+- **REST APIs**
+- **Backend fundamentals and architecture**
 
-I like thoughtful design, clear architecture, and continuous learning.  
+I also have a frontend foundation in:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Storybook
+
+I value clean code, clear architecture, and continuous growth as an engineer.
 Practicing algorithms on **Codewars**.
 
 

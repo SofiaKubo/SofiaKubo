@@ -1,24 +1,20 @@
 ### Hi there, I'm Sofia 👋
 
-I'm a **Java Backend Developer in progress**, focused on building a strong foundation in backend development and the Java ecosystem.
+I'm an **aspiring Java Backend Developer**, focused on strong backend fundamentals and the Java ecosystem.
 
-My current focus is:
+My current focus:
 - **Java Core**
 - **OOP and Collections**
 - **Spring Boot**
 - **REST APIs**
 - **Backend fundamentals and architecture**
 
-I also have a frontend foundation in: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Storybook**.
+I also have a frontend foundation in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Storybook**.
 
-I value clean code, clear architecture, and continuous growth as an engineer.
-
-Practicing algorithms on **Codewars**.
+I value clean code, clear architecture, and continuous growth as an engineer.  
+I also practice algorithms on **Codewars**.
 
 ---
-
-### 🛠️ Tech Stack
-Backend-focused developer with a strong Java/Spring direction and frontend foundation in React.
 
 ### 🛠️ Tech Stack
 
@@ -33,7 +29,7 @@ Backend-focused developer with a strong Java/Spring direction and frontend found
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="35" height="35"/> &nbsp;
 </p>
 
-#### Backend / Infrastructure (learning or basic practice)
+#### Currently exploring
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="35" height="35"/> &nbsp;
@@ -62,7 +58,6 @@ Backend-focused developer with a strong Java/Spring direction and frontend found
 </p>
 
 ---
-
 
 ### 📊 GitHub Stats
 

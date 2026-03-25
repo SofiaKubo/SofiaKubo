@@ -59,7 +59,6 @@ I also practice algorithms on **Codewars**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="35" height="35"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="35" height="35"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" width="35" height="35"/> &nbsp;
 </p>
 
 ---
